@@ -8,17 +8,17 @@ const SocialMediaIcons = () => {
             < SocialMediaLinkIcon
                 to="mailto:send.an.email.to.ritamcastro@gmail.com"
                 alt="E-mail me"
-                img="public/images/gmail-dark.svg" />
+                img="public/images/icons/gmail-dark.svg" />
 
             <SocialMediaLinkIcon
                 to="https://github.com/ritamcastro"
                 alt="See my code"
-                img="public/images/github-dark.svg" />
+                img="public/images/icons/github-dark.svg" />
 
             <SocialMediaLinkIcon
                 to="https://www.linkedin.com/in/ritamcastro/"
                 alt="Follow my work"
-                img="public/images/linkedin-dark.svg" />
+                img="public/images/icons/linkedin-dark.svg" />
         </div >
     )
 }
