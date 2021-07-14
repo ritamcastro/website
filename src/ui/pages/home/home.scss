@@ -1,0 +1,37 @@
+.business-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 142px 0px;
+
+    .info {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.headshot {
+    border: 2px solid #27183c;
+    height: 142px;
+    width: 142px;
+    border-radius: 50%;
+    object-fit: contain;
+    margin-right: 42px;
+}
+
+.name {
+    font-size: 42px;
+    color: #27183c;
+    font-family: "ProximaNovaBold";
+    margin: 0px;
+    padding: 8px 0px;
+}
+
+.title {
+    font-size: 23px;
+    color: #27183c;
+    font-family: "ProximaNova";
+    margin: 0px;
+    padding: 8px 0px;
+}

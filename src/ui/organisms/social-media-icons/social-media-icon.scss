@@ -1,0 +1,13 @@
+.social-media-icons {
+    display: flex;
+    flex-direction: row;
+    padding: 8px 0px;
+
+    a:not(:first-of-type) {
+        padding-left: 23px;
+    }
+
+    img {
+        border-radius: 20%;
+    }
+}

@@ -1,0 +1,27 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+#ritamcastro {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+}
+
+@font-face {
+    font-family: "ProximaNova";
+    src: local("ProximaNova"), url("../public/fonts/ProximaNova/ProximaNova-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "ProximaNovaBold";
+    src: local("ProximaNovaBold"), url("../public/fonts/ProximaNova/Metropolis-Bold.otf") format("truetype");
+    font-weight: normal;
+}

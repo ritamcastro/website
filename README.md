@@ -24,4 +24,7 @@ Oh, you will also see my todo list for the site in this readme.
 
 🔜 (option) to join the dark side 😎
 
+🔜 make it work on mobile 📱
+
+
 © Rita Castro 2021
