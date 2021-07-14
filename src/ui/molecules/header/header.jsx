@@ -10,8 +10,8 @@ const Header = () => {
                 <img alt="Home" src="public/images/mandala.png" height="42" width="42" />
             </Link>
 
-            <MenuItem to="blog">Blog</MenuItem>
-            <MenuItem to="about">About</MenuItem>
+            <MenuItem to="/blog">Blog</MenuItem>
+            <MenuItem to="/about">About</MenuItem>
         </header>
     )
 }
